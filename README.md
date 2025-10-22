@@ -2,8 +2,7 @@
 Diagnostic analysis of NHS appointment data (2020–2022): trends, missed appointments, capacity utilisation, and sentiment analysis.
 
 **Author:** Raksha Nama  
-**Role:** Junior Data Analyst  
-**Institution:** London School of Economics – Data Analytics Career Accelerator  
+**Role:** Data Analyst   
 **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn, TextBlob), Power BI, Excel  
 **Period Analysed:** January 2020 – June 2022 
 
