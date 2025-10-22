@@ -34,8 +34,8 @@ The goal was to uncover actionable insights to help the NHS improve operational 
 | **1. Data Cleaning & Preparation** | Imported CSV data, formatted dates, removed duplicates, handled nulls, and standardised column types. | Python (Pandas, NumPy) |
 | **2. Exploratory Data Analysis (EDA)** | Analysed time trends, regional differences, and service utilisation patterns. Visualised appointment volumes, DNA counts, and seasonal variations. | Matplotlib, Seaborn |
 | **3. DNA Trend Analysis** | Explored relationship between appointment mode, booking lead time, and DNA rate. Calculated overall DNA percentage. | Pandas, Plotting Libraries |
-| **4. Capacity Utilisation** | Evaluated service capacity relative to total appointments and benchmarked utilisation rates across periods. | Python, Power BI |
-| **5. Sentiment Analysis** | Scraped and analysed NHS-related tweets. Classified text sentiment (positive/negative/neutral). | Tweepy, TextBlob, WordCloud |
+| **4. Capacity Utilisation** | Evaluated service capacity relative to total appointments and benchmarked utilisation rates across periods. | Python |
+| **5. Sentiment Analysis** | Scraped and analysed NHS-related tweets. Classified text sentiment (positive/negative/neutral). | Pandas, Matplotlib, Seaborn |
 
 ---
 
