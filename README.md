@@ -1,10 +1,6 @@
 # NHS Diagnostic Analysis — Missed Appointments & Capacity Utilisation (2020–2022)
 Diagnostic analysis of NHS appointment data (2020–2022): trends, missed appointments, capacity utilisation, and sentiment analysis.
 
-<p align="center">
-  <img src="assets/banner.png" alt="NHS Diagnostic Analysis banner" width="100%">
-</p>
-
 **Author:** Raksha Nama  
 **Role:** Data Analyst   
 **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn, TextBlob), Power BI, Excel  
