@@ -80,3 +80,12 @@ The goal was to uncover actionable insights to help the NHS improve operational 
 📄 README.md → This document
 📄 requirements.txt → Python dependencies
 📄 LICENSE → MIT License
+
+---
+
+## 🔒 Data Privacy
+
+This repository **does not contain any patient-level or confidential NHS data**.  
+All data used here is **aggregated, anonymised, or synthetic** for educational and demonstration purposes. 
+
+---
