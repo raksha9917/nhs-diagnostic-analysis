@@ -67,8 +67,8 @@ The goal was to uncover actionable insights to help the NHS improve operational 
 | Category | Libraries / Tools |
 |-----------|-------------------|
 | **Data Analysis** | Python, Pandas, NumPy |
-| **Visualisation** | Matplotlib, Seaborn, Power BI |
-| **Text Analysis** | , TextBlob, WordCloud |
+| **Visualisation** | Matplotlib, Seaborn|
+| **Text Analysis** | Pandas, Matplotlib, Seaborn |
 | **Reporting** | Jupyter Notebook, PowerPoint, PDF |
 | **Environment** | JupyterLab / VS Code |
 
