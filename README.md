@@ -75,11 +75,11 @@ The goal was to uncover actionable insights to help the NHS improve operational 
 ---
 
 ## 🗂 Repository Contents
-📁 Jupyter Notebook →  NHS Diagnostic Analysis Notebook
-📁 Outputs →  NHS Diagnostic Analysis Technical Report and Presentation Slides
-📄 README.md → This document
-📄 requirements.txt → Python dependencies
-📄 LICENSE → MIT License
+- 📁 Jupyter Notebook →  NHS Diagnostic Analysis Notebook
+- 📁 Outputs →  NHS Diagnostic Analysis Technical Report and Presentation Slides
+- 📄 README.md → This document
+- 📄 requirements.txt → Python dependencies
+- 📄 LICENSE → MIT License
 
 ---
 
